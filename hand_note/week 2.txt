@@ -1,0 +1,6 @@
+使用整体DTO去做sql的查询参数和返回参数可以完成join带来的关联效应
+
+看日志：
+tail -f /data/www/logs/apps/8080-procurement/app/common-default.log
+
+squIds/barcode->spuIds->supplierIds
