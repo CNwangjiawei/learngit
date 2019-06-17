@@ -6,3 +6,4 @@ now time is 18:29
 another week man!
 mmmmmmmmmmmmmmm
 ffffff
+dev is a good spot to develop
